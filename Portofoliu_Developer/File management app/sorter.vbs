@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "C:\Users\Mihai\Desktop\python_life_savers\sorter.bat", 0 , True
