@@ -13,31 +13,31 @@
 1. Open the exe file
 
 *ㅤ*
-    ![DBD Highlight](/Perk%20app/read_me_images/perk.png "DBD Highlight")
+    ![DBD Highlight](https://imgur.com/7cSvwsu.png "DBD Highlight")
 *ㅤ*
 2. Click on the New Build Tab
 
 *ㅤ*
-    ![DBD Highlight](/Perk%20app/read_me_images/start.jpg "DBD Highlight")
+    ![DBD Highlight](https://imgur.com/WP2KVDH.png "DBD Highlight")
 *ㅤ*
 
 3. Add your name in the placeholder and select the perks from the list
 
 *ㅤ*
-    ![DBD Highlight](/Perk%20app/read_me_images/3.jpg "DBD Highlight")
+    ![DBD Highlight](https://imgur.com/d0UJRS7.png "DBD Highlight")
 *ㅤ*
 
 4. Press **Create Build** and pres **Ok**
  
 *ㅤ*
-    ![DBD Highlight](/Perk%20app/read_me_images/4.png "DBD Highlight")
+    ![DBD Highlight](https://imgur.com/WY29cFx.png "DBD Highlight")
 *ㅤ*
 
 5. Press the **Refresh** Button and wait for the app to reopen
    There you will find your new build(s) added
  
 *ㅤ*
-    ![DBD Highlight](/Perk%20app/read_me_images/6.png "DBD Highlight")
+    ![DBD Highlight](https://imgur.com/Uf2SoKU.png "DBD Highlight")
 *ㅤ*
 
 ***
@@ -47,13 +47,13 @@
 1. Press the **Delete Build** button from the left of the program
  
 *ㅤ*
-    ![DBD Highlight](/Perk%20app/read_me_images/7.png "DBD Highlight")
+    ![DBD Highlight](https://imgur.com/U6SkQZ6.png "DBD Highlight")
 *ㅤ*
  
 2. Enter the name of the build you want to delete and press **Submit**
     
 *ㅤ*
-    ![DBD Highlight](/Perk%20app/read_me_images/8.pngg "DBD Highlight")
+    ![DBD Highlight](https://imgur.com/AVRqjQc.png "DBD Highlight")
 *ㅤ*
 
 3. Press **Ok** and **Refresh** the app
@@ -61,7 +61,7 @@
 *ㅤ*
 *Image after the build **Test 1** was deleted*
 *ㅤ*
-    ![DBD Highlight](/Perk%20app/read_me_images/9.png "DBD Highlight")
+    ![DBD Highlight](https://imgur.com/Z7Rd0EH.png "DBD Highlight")
 *ㅤ*
  
 ***
@@ -75,7 +75,7 @@
 2.  You will get a random build from the table
     
 *ㅤ*
-    ![DBD Highlight](/Perk%20app/read_me_images/11.png "DBD Highlight")
+    ![DBD Highlight](https://imgur.com/EkDJZXP.png "DBD Highlight")
 *ㅤ*
  
 
