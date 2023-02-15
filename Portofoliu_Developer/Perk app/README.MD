@@ -1,7 +1,5 @@
 # Dead by Daylight Perk Build Randomizer
 
-
-
 ## How to use the program in order to funciton properly:
 
 - Needed Files:
@@ -14,5 +12,4 @@
 
 1. Open the exe file
 
-[![Dead by Daylight app](D:\Mihai Photos\all_read_me_photos\perk.png "app")
-
+![Alt text](https://photos.app.goo.gl/dGiH1QPhK3di3KGt7 "a title")
