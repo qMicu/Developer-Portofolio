@@ -14,5 +14,5 @@
 
 1. Open the exe file
 
-![Dead by Daylight app](D:\Mihai Photos\all_read_me_photos\perk.png "app")
+[![Dead by Daylight app](D:\Mihai Photos\all_read_me_photos\perk.png "app")
 
