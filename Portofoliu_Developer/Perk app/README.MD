@@ -12,4 +12,25 @@
 
 1. Open the exe file
 
-![Alt text](https://photos.app.goo.gl/dGiH1QPhK3di3KGt7 "a title")
+*ㅤ*
+    ![DBD Highlight](C:\../read_me_images/perk.png "DBD Highlight")
+*ㅤ*
+2. Click on the New Build Tab
+
+*ㅤ*
+    ![DBD Highlight](C:\../read_me_images/start.jpg "DBD Highlight")
+*ㅤ*
+
+3. Add your name in the placeholder and select the perks from the list
+
+*ㅤ*
+    ![DBD Highlight](C:\../read_me_images/3.jpg "DBD Highlight")
+*ㅤ*
+
+4. Press **Create Build** and pres **Ok**
+ 
+*ㅤ*
+    ![DBD Highlight](C:\../read_me_images/4.png "DBD Highlight")
+*ㅤ*
+
+5. 
