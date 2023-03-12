@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<head>
+    <title>Energenius</title>
+    <link rel="stylesheet" href="Static/webpage.css">
+    <script type="text/javascript" src="script.js"></script>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <div class="dashboard">
+    <header>
+        <div class="f fe">
+        <div class="icon icon-w"></div>
+        <div class="heading">
+            <nav>
+                <label for="touch"><span class="account">apartament 2</span class="account"></label>               
+                <input type="checkbox" id="touch"> 
+
+                <ul class="slide">
+                    <li><a href="/">Parter</a></li> 
+                    <li><a href="/E1L">Apartament 1</a></li>
+
+
+                  </ul>
+            </nav>
+            <h2 class="title">Cloudy</h2>
+        </div>
+        </div>
+        
+        <div class="weather f">
+        <div>
+            <strong>26°<sup>C</sup></strong>
+            <p>Indoor Temp.</p>
+        </div>
+        <div>
+            <strong>48.2%</strong>
+            <p>Outdoor Humidity</p>
+        </div>
+        <div>
+            <strong>52.99</strong>
+            <p>Indoor Temp.</p>
+        </div>
+        </div>
+    </header>
+    <section>
+    <!-- Category -->
+        <div class="category">
+        <ul>
+            <li><a href="/E2L" >Living Room</a></li>
+            <li><a href="" class = 'active'>Bedroom</a></li>
+
+        </ul>
+        </div>
+    <!-- Appliances -->
+    <form>
+        <div class="appliances">
+            <script>
+                function handleChange() {
+                    var myCheckbox = document.getElementById("c");
+                    if (document.getElementById("c").checked) {
+                        history.pushState(null, null, "/E2A");
+                        myCheckbox.setAttribute("checked", "checked");
+                        localStorage.setItem("cChecked", "true");
+                        
+                    } else {
+                        history.pushState(null, null, "/e2a");
+                        myCheckbox.removeAttribute("checked");
+                        localStorage.setItem("cChecked", "false");
+                    }
+                    
+                    
+                }
+                    window.onload = function() {
+                    var aChecked = localStorage.getItem("cChecked");
+                    if (aChecked === "true") {
+                        document.getElementById("c").setAttribute("checked", "checked");
+                    }
+                }
+            </script>
+
+            
+
+        
+        <div class="appliance">
+            <input type="checkbox" name="a" id="c" value="checked" onchange="handleChange(); location.reload();">
+            <label for="c">
+            <i class="a"></i>
+            <strong>Air</strong>
+            <span data-o="opened" data-c="closed"></span>
+            <small></small>
+            </label>
+        </div>
+        
+
+        
+
+        
+        </div>
+    </form>
+    </section>
+    </div>
+</body>
